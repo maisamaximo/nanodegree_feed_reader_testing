@@ -1,4 +1,4 @@
-# Pesonal information
+# Personal information
 
 @Author: Maísa Maximo [changes]
 @Date: 01/24/19
